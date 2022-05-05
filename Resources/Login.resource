@@ -18,5 +18,3 @@ Login
     input password  ${password_textfield}  ${password}
 
     click element   ${login_button}
-
-    wait until element is visible    id:message

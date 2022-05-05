@@ -1,0 +1,4 @@
+${username};${password};${message}
+cbarton;kjt;Successfully logging in
+invalid;invalidpwd;Username/Password not recognized.
+asd;asda;Username/Password not recognized. Please try again.
