@@ -11,6 +11,8 @@ Suite Teardown   End test
 
 Test Template   Verify that login works
 
+new line
+
 *** Test Cases ***
 Login functionality     ${username}     ${password}     ${message}
 
