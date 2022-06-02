@@ -1,10 +1,10 @@
 *** Settings ***
 
-Library  SeleniumLibrary
-
 *** Variables ***
 
 
 *** Test Cases ***
 
-Library     
+
+*** keywords ***
+asd

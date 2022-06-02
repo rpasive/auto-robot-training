@@ -10,4 +10,4 @@ Start test
     maximize browser window
 
 End test
-    close browser
+    close browserasd
