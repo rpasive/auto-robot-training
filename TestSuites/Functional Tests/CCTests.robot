@@ -1,4 +1,5 @@
 *** Settings ***
+
 Library  SeleniumLibrary
 
 *** Variables ***
@@ -6,7 +7,4 @@ Library  SeleniumLibrary
 
 *** Test Cases ***
 
-
-
-*** keywords ***
-asd
+Library     
